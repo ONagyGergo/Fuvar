@@ -1,0 +1,9 @@
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\bin\Debug\Fuvar.exe.config
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\bin\Debug\Fuvar.exe
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\bin\Debug\Fuvar.pdb
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\obj\Debug\Fuvar.csprojAssemblyReference.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\obj\Debug\Fuvar.Properties.Resource.resources
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\obj\Debug\Fuvar.csproj.GenerateResource.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\obj\Debug\Fuvar.csproj.CoreCompileInputs.cache
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\obj\Debug\Fuvar.exe
+C:\Users\Smarthomeecho\Desktop\Vizsgára felkészülés\Pro feladat megoldások\Fuvar konzol\Fuvar\Fuvar\obj\Debug\Fuvar.pdb
