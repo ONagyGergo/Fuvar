@@ -47,7 +47,7 @@ namespace Fuvar
             List<Fuvarok> Hibak = adatok.OrderBy(x => x.Indulas_Ido).ToList();
             StreamWriter Iro = new StreamWriter("hibak.txt", false, Encoding.Default);
             Iro.WriteLine("taxi_id;indulas;idotartam;tavolsag;viteldij;borravalo;fizetes_modja");
-            for (int i = 0; i < Hibak.Count; i++)
+            for (int i = 2; i < Hibak.Count; i++)
             {
                 if (Hibak[i].Megtett_Tav == 0 && (Hibak[i].Utazas_Ido > 0 || Hibak[i].VitelDij > 0))
                 {
@@ -57,6 +57,7 @@ namespace Fuvar
                     Iro.Write(Hibak[i].VitelDij + ";");
                     Iro.Write(Hibak[i].Borravalo + ";");
                     Iro.Write(Hibak[i].FizetesModja + ";");
+                    Iro.Write("\n");
                 }
             }
             Iro.Close();
